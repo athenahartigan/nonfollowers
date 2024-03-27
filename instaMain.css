@@ -1,8 +1,8 @@
 body {
     background-image: linear-gradient(to right, rgb(254, 218, 117), rgb(250, 126, 30), rgb(214, 41, 118), rgb(150, 47, 191), rgb(79, 91, 213));
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 25px;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -103,6 +103,7 @@ body {
     color: pink;
     display: block; /* Make the link a block element to take full width */
     text-align: center; /* Center text */
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .user-link:hover {
@@ -116,4 +117,5 @@ body {
 /* Change color of "NonFollowers" text to navy */
 #userListContainer h2 {
     color: navy;
+    font-family: 'Times New Roman', Times, serif;
 }
