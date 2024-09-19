@@ -1,3 +1,3 @@
-# Connect Four Link: https://athenahartigan.github.io/connectfour](https://athenahartigan.github.io/
+# Connect Four Link: https://athenahartigan.github.io/connectfour
 
 https://youtu.be/Cl_PgYzhUDs
