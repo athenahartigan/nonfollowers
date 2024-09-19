@@ -1,4 +1,4 @@
-# Connect Four Link: https://athenahartigan.github.io/nonfollowers/
+# Instagram Followers Web App Link: https://athenahartigan.github.io/nonfollowers/
 
 <img width="1728" alt="Screenshot 2024-09-19 at 2 21 13 PM" src="https://github.com/user-attachments/assets/ac89f89e-0584-4f04-9134-59af4aa4511b">
 
